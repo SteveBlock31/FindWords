@@ -5,6 +5,8 @@ Pour l'utiliser:
  Avoir la librairie **_pyperclip_** installée
  Lancer le fichier findwords.py
  
+ 
+ 
  Rechercher des mots 👉 Recherche de mots avancée 
  
  Rechercher des mots dans un mot 👉 Recherche les mots que contient le mot que vous avez entré 
@@ -12,3 +14,6 @@ Pour l'utiliser:
  Mot aléatoire 👉 Vous donne le nombre de mots aléatoires que vous avez mis 
  
  Fermer 👉 Quitter le programme (réflechissez un peu) 
+
+
+Le fichier **liste_mots_francais.txt** ne contient pas touts le mots du dictionnaire (pas les conjugaisons par exemple)
